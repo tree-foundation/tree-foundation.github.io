@@ -3,4 +3,17 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+TREE Foundation
+
+House No. 14
+Shanti Path, Rukminigaon
+PO: Khanapara
+Guwahati – 781022
+
+Phone numbers:
+
++91-7635914921
++91-8011003214
+
+Email: [treefoundation16@gmail.com](treefoundation16@gmail.com)
+Facebook: https://www.facebook.com/TREE-Foundation-1105926852808548 
