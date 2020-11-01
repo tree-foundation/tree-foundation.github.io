@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: khweng_study_plan.jpg
+image: khweng_study_project.jpg
 ---
 
 # Millennial
