@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Career Exposure Programme in Chhattisgarh"
+author: ""
 categories: resources
 tags: [documentation,sample]
 image: personality_dev.jpg
