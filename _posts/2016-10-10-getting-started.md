@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Khweng Value Chain Study"
+author: ""
 categories: documentation
 tags: [documentation,sample]
 image: khweng_study_project.jpg
