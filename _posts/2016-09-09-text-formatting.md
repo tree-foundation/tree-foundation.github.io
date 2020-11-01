@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Renewable Energy Advocacy"
+author: ""
 categories: sample
 tags: [sample]
 image: advocacy_renergy.jpg
